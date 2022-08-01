@@ -21,10 +21,10 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shraddha1512/task-manager-api.git"
+    "url": "git+https://github.com/shraddha1512/task-manager-webui.git"
   },
   "bugs": {
-    "url": "https://github.com/shraddha1512/task-manager-api/issues"
+    "url": "https://github.com/shraddha1512/task-manager-webui/issues"
   },
-  "homepage": "https://github.com/shraddha1512/task-manager-api#readme"
+  "homepage": "https://github.com/shraddha1512/task-manager-webui#readme"
 }
